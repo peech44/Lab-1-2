@@ -239,7 +239,7 @@ void turn_p2(int n[6][7], int& s, int& x, int& y, int& a) {
 				}
 			}
 			else {
-				cout << "Row  is full !! Pls try again..." << endl;
+				cout << "Column  is full !! Pls try again..." << endl;
 			}
 
 		}
@@ -283,7 +283,7 @@ void turn_p1(int n[6][7], int& x, int& y, int& a) {
 		}
 		//else that row is full 
 		else {
-			cout << "Row  is full !! Pls try again..." << endl;
+			cout << "Column  is full !! Pls try again..." << endl;
 
 		}
 
